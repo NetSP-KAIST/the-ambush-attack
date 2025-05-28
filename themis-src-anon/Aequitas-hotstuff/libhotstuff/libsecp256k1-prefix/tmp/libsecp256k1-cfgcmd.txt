@@ -1,0 +1,1 @@
+cmd='/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/secp256k1/autogen.sh;COMMAND;/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/secp256k1/configure;--disable-shared;--with-pic;--with-bignum=no;--enable-module-recovery'

@@ -1,0 +1,13 @@
+# Target labels
+ libsecp256k1
+# Source files and their labels
+/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/CMakeFiles/libsecp256k1
+/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/CMakeFiles/libsecp256k1.rule
+/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/CMakeFiles/libsecp256k1-complete.rule
+/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-build.rule
+/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-configure.rule
+/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-download.rule
+/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-install.rule
+/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-mkdir.rule
+/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-patch.rule
+/home/taeung/themis-src-anon/Aequitas-hotstuff/libhotstuff/libsecp256k1-prefix/src/libsecp256k1-stamp/libsecp256k1-update.rule

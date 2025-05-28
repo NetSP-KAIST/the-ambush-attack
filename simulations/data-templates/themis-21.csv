@@ -1,0 +1,20 @@
+A1, A2, A3, A4, A5, A6, T, Y6, Y5, Y4, Y3, Y2, Y1, X6, X5, X4, X3, X2, X1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, V6, V5, V4, V3, V2, V1, F
+A1, A2, A3, A4, A5, A6, T, Y6, Y5, Y4, Y3, Y2, Y1, X6, X5, X4, X3, X2, X1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, V6, V5, V4, V3, V2, V1, F
+A1, A2, A3, A4, A5, A6, T, Y6, Y5, Y4, Y3, Y2, Y1, X6, X5, X4, X3, X2, X1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, V6, V5, V4, V3, V2, V1, F
+A1, A2, A3, A4, A5, A6, T, Y6, Y5, Y4, Y3, Y2, Y1, X6, X5, X4, X3, X2, X1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, V6, V5, V4, V3, V2, V1, F
+A1, A2, A3, A4, A5, A6, T, Y6, Y5, Y4, Y3, Y2, Y1, X6, X5, X4, X3, X2, X1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, V6, V5, V4, V3, V2, V1, F
+A1, A2, A3, A4, A5, A6, T, Y6, Y5, Y4, Y3, Y2, Y1, X6, X5, X4, X3, X2, X1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, V6, V5, V4, V3, V2, V1, F
+A1, A2, A3, A4, A5, A6, T, Y6, Y5, Y4, Y3, Y2, Y1, X6, X5, X4, X3, X2, X1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, V6, V5, V4, V3, V2, V1, F
+A2, A3, A4, A5, A6, T, Y6, Y5, Y4, Y3, Y2, X6, X5, X4, X3, X2, Z6, Z5, Z4, Z3, Z2, W6, W5, W4, W3, W2, V6, V5, V4, V3, V2, F
+A3, A4, A5, A6, T, X1, Y6, Y5, Y4, Y3, X6, X5, X4, X3, Z6, Z5, Z4, Z3, W6, W5, W4, W3, V6, V5, V4, V3, F, A1, V1, Z1, W1, Y1
+A4, A5, A6, T, X2, X1, Y6, Y5, Y4, X4, X5, X6, Z4, Z5, Z6, W4, W5, W6, V4, V5, V6, F, A2, A1, V2, V1, Z2, Z1, W2, W1, Y2, Y1
+A5, A6, T, X3, X2, X1, Y6, Y5, X6, X5, Z6, Z5, W6, W5, V6, V5, F, A3, A2, A1, V3, V2, V1, Z3, Z2, Z1, W3, W2, W1, Y3, Y2, Y1
+A6, T, X4, X3, X2, X1, Y6, X6, Z6, W6, V6, F, A4, A3, A2, A1, V4, V3, V2, V1, Z4, Z3, Z2, Z1, W4, W3, W2, W1, Y4, Y3, Y2, Y1
+T, X5, X4, X3, X2, X1, F, A5, A4, A3, A2, A1, V5, V4, V3, V2, V1, Z5, Z4, Z3, Z2, Z1, W5, W4, W3, W2, W1, Y5, Y4, Y3, Y2, Y1
+T, X6, X5, X4, X3, X2, X1, F, A6, A5, A4, A3, A2, A1, V6, V5, V4, V3, V2, V1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, Y6, Y5, Y4, Y3, Y2, Y1
+T, X6, X5, X4, X3, X2, X1, F, A6, A5, A4, A3, A2, A1, V6, V5, V4, V3, V2, V1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, Y6, Y5, Y4, Y3, Y2, Y1
+T, X6, X5, X4, X3, X2, X1, F, A6, A5, A4, A3, A2, A1, V6, V5, V4, V3, V2, V1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, Y6, Y5, Y4, Y3, Y2, Y1
+T, X6, X5, X4, X3, X2, X1, F, A6, A5, A4, A3, A2, A1, V6, V5, V4, V3, V2, V1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, Y6, Y5, Y4, Y3, Y2, Y1
+T, X6, X5, X4, X3, X2, X1, F, A6, A5, A4, A3, A2, A1, V6, V5, V4, V3, V2, V1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, Y6, Y5, Y4, Y3, Y2, Y1
+T, X6, X5, X4, X3, X2, X1, F, A6, A5, A4, A3, A2, A1, V6, V5, V4, V3, V2, V1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, Y6, Y5, Y4, Y3, Y2, Y1
+T, X6, X5, X4, X3, X2, X1, F, A6, A5, A4, A3, A2, A1, V6, V5, V4, V3, V2, V1, Z6, Z5, Z4, Z3, Z2, Z1, W6, W5, W4, W3, W2, W1, Y6, Y5, Y4, Y3, Y2, Y1
