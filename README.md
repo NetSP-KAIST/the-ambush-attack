@@ -1,5 +1,6 @@
 # The Ambush Attack
-[![DOI](https://zenodo.org/badge/DOI/10.1145/3719027.3744879.svg)](https://doi.org/10.1145/3719027.3744879)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15703035.svg)](https://zenodo.org/records/15703035)
+
 
 This is the GitHub repository for CCS'25 paper [[paper link]](https://doi.org/10.1145/3719027.3744879):
 > On Frontrunning Risks in Batch-Order Fair Systems for Blockchains
