@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15703035.svg)](https://zenodo.org/records/15703035)
 
 
-This is the GitHub repository for CCS'25 paper [[paper link]](https://doi.org/10.1145/3719027.3744879):
+This is the GitHub repository for CCS'25 paper [[paper link]](https://doi.org/10.1145/3719027.3744879)[[Full paper]](https://eprint.iacr.org/2025/1168):
 > On Frontrunning Risks in Batch-Order Fair Systems for Blockchains
 
 We open the source codes to reproduce the experiments of the Ambush attack. Please follow the `README.md` under each directory to reproduce the results. 
